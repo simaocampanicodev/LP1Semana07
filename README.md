@@ -10,8 +10,9 @@
 <br>
 <br>
 
-![](https://animeflix.com.br/wp-content/uploads/2025/01/Solo-leveling-1.jpg)
-
+<div align="center">
+  <img height="240" src="https://www.icegif.com/wp-content/uploads/2024/04/solo-leveling-icegif-4.gif"  />
+</div>
 
 <br>
 
